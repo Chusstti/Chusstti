@@ -2,7 +2,7 @@
 
 _Me llamo Agustín, pero todos me dicen Chusti._
 
-_Actualmente me desempeño como BI Analyst :technologist: aunque cuento con experiencia como Data Analyst/Python Developer, el área de los datos me encanta y ¡lo descubrí hace poco!. También me interesa el backend con Java o Python._
+_Actualmente me desempeño como Data Analyst :technologist: aunque cuento con experiencia como Python Developer, el área de los datos me encanta y ¡lo descubrí hace poco!. También me interesa el backend con Java o Python._
 
 _📚 Estudio Ing. En Computación en la Universidad Nacional de Tres de Febrero (UNTREF)._ 
 
